@@ -1,3 +1,3 @@
 MSP
-![before](https://github.com/IJCAI-MSP/MSP/tree/master/images/before.jpg)
-![after](http://github.com/IJCAI-MSP/MSP/tree/master/images/after.jpg)
+![before](https://github.com/IJCAI-MSP/MSP/blob/master/images/before.png)
+![after](https://github.com/IJCAI-MSP/MSP/blob/master/images/after.png)
